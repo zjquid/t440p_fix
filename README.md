@@ -1,5 +1,5 @@
-# t440p_fix
-stuff to make your t440p work properly
+# t440p fix for windows 10
+stuff to make your t440p work properly on windows 10
 
 # trackpad/clunkpad swap (t450 trackpad)
 * get a synaptics one of these: https://imgur.com/a/z5TgiBI
