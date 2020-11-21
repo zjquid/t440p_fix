@@ -1,7 +1,7 @@
 # t440p_fix
 stuff to make your t440p work properly
 
-# trackpad replacement
+# trackpad/clunkpad swap (t450 trackpad)
 * get a synaptics one of these: https://imgur.com/a/z5TgiBI
 * make sure its not a fake 
 * install it into the laptop
