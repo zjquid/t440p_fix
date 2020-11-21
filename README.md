@@ -1,4 +1,4 @@
-# t440p
+# t440p_fix
 stuff to make your t440p work properly
 
 # trackpad replacement
