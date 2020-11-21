@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SynTP\Parameters]
+"ExtraCapabilities7Add"=dword:00010000
+"ExtraCapabilities7Mask"=dword:FFFFFFFF
+"ProcessUnexpectedResetDuringDetection"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Synaptics\SynTP\Defaults]
+"SlaveLeftButtonZoneR"=dword:00000d80
+"SlaveLeftButtonZoneB"=dword:00000f40
+"SlaveRightButtonZoneL"=dword:00000d81
+"SlaveRightButtonZoneB"=dword:00000f40
+"SlaveMiddleButtonZoneL"=dword:00000b57
+"SlaveMiddleButtonZoneR"=dword:00000fa9
+"SlaveMiddleButtonZoneB"=dword:0000112e
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Synaptics\SynTPEnh]
+"ScrollMethod"=dword:00000005
+"SynapticsScrollMethodSpeedFactor"=dword:00005000
