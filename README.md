@@ -15,7 +15,7 @@ stuff to make your t440p work properly on windows 10
 * it should work now :)
 * the two-finger scrolling is reversed by default (apple's influence knows no bounds), you can change this in *Control Panel > Mouse > UltraNav > Settings > Scrolling > Switch Direction*
 
-# disable automatic updating of drivers!!
+## disable automatic updating of drivers!!
 * when windows updates it will replace this driver for the T440p driver (which is the wrong one!)
 * win + r (run)
 * type gpedit.msc
@@ -26,7 +26,7 @@ stuff to make your t440p work properly on windows 10
 * it shouldn't update drivers when windows updates now.
 * CAUTION this will prevent ANY driver updates, not just the trackpad. there is probably a way around this but whatever (the hardware is old enough driver updates aren't of high priority)
 
-# add browser buttons on the T430+ keyboards (pgup + pgdown = back and forward in browser)
+## add browser buttons on the T430+ keyboards (pgup + pgdown = back and forward in browser)
 * download keebfix.ahk
 * download autohotkey from https://www.autohotkey.com/
 * right click > copy keebfix.ahk
@@ -34,7 +34,7 @@ stuff to make your t440p work properly on windows 10
 * right click > paste into startup folder
 * double click keebfix.ahk or reboot to fix the keyboard
 
-## troubleshooting
+### troubleshooting
 * if windows updates the driver, make sure to go to C:\Drivers and delete the UltraNav folder
 * disable automatic driver updates
 * then go back to step 1
