@@ -10,7 +10,7 @@ stuff to make your t440p work properly on windows 10
 * get a synaptics one of these: [imgur album](https://imgur.com/a/z5TgiBI) || [wayback machine](https://web.archive.org/web/20190301194612/https://imgur.com/a/z5TgiBI)
 * make sure its not a fake 
 * install it into the laptop
-* download jbg211ww.exe driver (https://drive.google.com/file/d/1xkwAOvHzVadxZ_BQ4t5xvSwNXe6Ma8do/view?usp=sharing) or google it... i think its a p53 driver?
+* download jbg211ww.exe driver [gdrive](https://drive.google.com/file/d/1xkwAOvHzVadxZ_BQ4t5xvSwNXe6Ma8do/view?usp=sharing) || [archive.org](https://archive.org/details/jbg211ww) or google it... i think its a p53 driver?
 * install the driver (dont edit any .inf files or anyhting, just clean install)
 * reboot
 * download and run trackpadfix.reg
