@@ -2,8 +2,9 @@
 stuff to make your t440p work properly on windows 10
 
 *works on 21H1 as of 6/12/21*
+*works on 21H2 as of 2/21/23*
 
-*will be testing on windows 11 soon, if you do your own testing, let me know*
+*will be testing on windows 11 at some point, if you do your own testing, let me know*
 
 # trackpad/clunkpad swap (t450 trackpad)
 * get a synaptics one of these: [imgur album](https://imgur.com/a/z5TgiBI) || [wayback machine](https://web.archive.org/web/20190301194612/https://imgur.com/a/z5TgiBI)
